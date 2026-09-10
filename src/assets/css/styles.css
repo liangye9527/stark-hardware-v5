@@ -75,6 +75,7 @@ nav {
 }
 
 .logo {
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 700;
     letter-spacing: 3px;
@@ -119,7 +120,7 @@ header.scrolled .nav-links a {
     padding: 120px 0;
     color: var(--white);
     background-color: #1a1a1a;
-    background-image: linear-gradient(rgba(10, 10, 10, 0.55), rgba(10, 10, 10, 0.68)), var(--hero-image);
+    background-image: linear-gradient(rgba(10, 10, 10, 0.55), rgba(10, 10, 10, 0.68)), url('https://s.alicdn.com/@sc04/kf/H19c6adebd34f4d779b2e048e5952ad27G/SUS304-Stainless-Steel-Digital-Waterfall-Rain-Shower.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
